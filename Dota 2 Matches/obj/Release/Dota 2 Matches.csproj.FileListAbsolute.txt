@@ -1,0 +1,18 @@
+C:\Users\mimuu_000\Desktop\Projets\Dota 2 Matches\Dota 2 Matches\Bin\Release\ApplicationIcon.png
+C:\Users\mimuu_000\Desktop\Projets\Dota 2 Matches\Dota 2 Matches\Bin\Release\Background.png
+C:\Users\mimuu_000\Desktop\Projets\Dota 2 Matches\Dota 2 Matches\Bin\Release\icons\logo.png
+C:\Users\mimuu_000\Desktop\Projets\Dota 2 Matches\Dota 2 Matches\Bin\Release\Dota 2 Matches.dll
+C:\Users\mimuu_000\Desktop\Projets\Dota 2 Matches\Dota 2 Matches\Bin\Release\Dota 2 Matches.pdb
+C:\Users\mimuu_000\Desktop\Projets\Dota 2 Matches\Dota 2 Matches\Bin\Release\AppManifest.xaml
+C:\Users\mimuu_000\Desktop\Projets\Dota 2 Matches\Dota 2 Matches\Bin\Release\Dota_2_Matches.xap
+C:\Users\mimuu_000\Desktop\Projets\Dota 2 Matches\Dota 2 Matches\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\mimuu_000\Desktop\Projets\Dota 2 Matches\Dota 2 Matches\Bin\Release\Newtonsoft.Json.dll
+C:\Users\mimuu_000\Desktop\Projets\Dota 2 Matches\Dota 2 Matches\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\mimuu_000\Desktop\Projets\Dota 2 Matches\Dota 2 Matches\Bin\Release\Newtonsoft.Json.xml
+C:\Users\mimuu_000\Desktop\Projets\Dota 2 Matches\Dota 2 Matches\obj\Release\App.g.cs
+C:\Users\mimuu_000\Desktop\Projets\Dota 2 Matches\Dota 2 Matches\obj\Release\MainPage.g.cs
+C:\Users\mimuu_000\Desktop\Projets\Dota 2 Matches\Dota 2 Matches\obj\Release\Dota 2 Matches.g.resources
+C:\Users\mimuu_000\Desktop\Projets\Dota 2 Matches\Dota 2 Matches\obj\Release\Dota 2 Matches.dll
+C:\Users\mimuu_000\Desktop\Projets\Dota 2 Matches\Dota 2 Matches\obj\Release\Dota 2 Matches.pdb
+C:\Users\mimuu_000\Desktop\Projets\Dota 2 Matches\Dota 2 Matches\obj\Release\XapCacheFile.xml
+C:\Users\mimuu_000\Desktop\Projets\Dota 2 Matches\Dota 2 Matches\obj\Release\Dota 2 Matches.csprojResolveAssemblyReference.cache
